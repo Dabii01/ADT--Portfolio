@@ -1,0 +1,4 @@
+Hello!
+
+My name is Janah Baltazar.
+This repository is my portfolio for the Application Development Technology course.
