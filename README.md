@@ -2,9 +2,9 @@
 
 
 **Student Information**
-Student Name: Janah Baltazar
-Course: BSIT 4
-Section: CC400
+- Student Name: Janah Baltazar
+- Course: BSIT 4
+- Section: CC400
 
 ## Goals in Learning Application Development
 
