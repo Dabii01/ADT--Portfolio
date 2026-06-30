@@ -1,0 +1,22 @@
+.container{
+  display: flex;
+}
+h1{
+  text-align: center;
+}
+form.form {
+  display: table;
+  margin: 0 auto; 
+  width:250px;
+}
+div.form {
+  display: table-row;
+}
+label,
+input {
+  display: table-cell;
+  margin-bottom: 10px;
+}
+label {
+  padding-right: 10px;
+}
