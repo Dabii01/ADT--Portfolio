@@ -13,22 +13,22 @@ export default function RootLayout() {
     >
       <Stack.Screen
         name="index"
-        options={{ title: "Student Portal" }}
-      />
-
-      <Stack.Screen
-        name="about"
-        options={{ title: "About" }}
-      />
-
-      <Stack.Screen
-        name="contact"
-        options={{ title: "Contact" }}
+        options={{ title: "Home" }}
       />
 
       <Stack.Screen
         name="profile"
-        options={{ title: "Profile" }}
+        options={{ title: "Student Registration" }}
+      />
+
+      <Stack.Screen
+        name="contact"
+        options={{ title: "Saved Information" }}
+      />
+
+      <Stack.Screen
+        name="about"
+        options={{ title: "About App" }}
       />
     </Stack>
   );
