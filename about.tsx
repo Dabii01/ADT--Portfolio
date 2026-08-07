@@ -4,23 +4,9 @@ import { StyleSheet, Text, View } from "react-native";
 export default function About() {
   return (
     <View style={styles.container}>
-      <View style={styles.icon}>
-        <Ionicons
-          name="information-circle"
-          size={36}
-          color="#2f5bea"
-        />
+      <Text style={styles.title}>Student Registration Application</Text>
+        
       </View>
-
-      <Text style={styles.title}>About This App</Text>
-
-      <View style={styles.card}>
-        <Text style={styles.text}>
-          This Student Portal Application allows students to access school
-          information and manage their profile.
-        </Text>
-      </View>
-    </View>
   );
 }
 
